@@ -1,6 +1,6 @@
 ### What's up!! I'm Marcus 👋
 
-- 🔭 I’m currently learning about Analysis and Systems Development - ASD at UNIFtec and daily studing English.
+- I hold a degree in Systems Analysis and Development from UNIFTEC, completed in the second semester of 2023. 🔭 I´m constantly studying programming, with a particular focus on Python, the language that attracts me the most. Additionally, I study English daily to enhance my proficiency in this crucial language for programmers.
 
 ##
 <div align="center">
